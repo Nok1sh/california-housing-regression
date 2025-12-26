@@ -12,3 +12,5 @@ This repository presents a project focused at predicting house prices in Califor
 
 ## Dataset
 The California Housing dataset contains data from the California Census in 1990.
+
+https://www.kaggle.com/datasets/camnugent/california-housing-prices/data
